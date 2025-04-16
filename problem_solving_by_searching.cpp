@@ -166,7 +166,7 @@ void deleteData() {
     delete[] test_cases;
 }
 
-//useless function to check if data is stored properly in files or not!
+// display the content of the file
 void displayFile() {
     cout << m << " " << n << " " << t << endl << endl;
 
